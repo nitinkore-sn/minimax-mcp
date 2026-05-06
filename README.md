@@ -97,12 +97,12 @@ Save the file (`Cmd + S`).
 
 This tells Claude when to use MiniMax vs handle things itself.
 
-**How to open Custom Instructions:**
+**How to add Custom Instructions:**
 1. Open Claude Desktop
 2. Click your **profile icon** (bottom-left corner)
 3. Click **Settings**
-4. Click **Custom Instructions** in the left sidebar
-5. Paste the text below into the box and click **Save**
+4. Look for a text box labelled **Custom Instructions** on the settings page
+5. Paste the text below into that box and click **Save**
 
 ```
 ROUTING RULES — follow strictly:
