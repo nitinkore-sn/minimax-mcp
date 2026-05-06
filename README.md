@@ -21,6 +21,7 @@ MiniMax is ~20x cheaper than Opus for coding tasks.
 
 ## What you need before starting
 
+- **Claude Pro license** — MCP servers are only available on Claude Pro (paid plan). Free accounts cannot add MCP servers in Claude Desktop.
 - A Mac (these instructions are for Mac)
 - [Claude Desktop](https://claude.ai/download) installed
 - Python 3 installed — check by running `python3 --version` in Terminal. If not installed, download from [python.org](https://python.org)
