@@ -1,11 +1,21 @@
 # MiniMax MCP for Claude Desktop
 
-Use **MiniMax M2.7** (one of the best coding AI models) inside Claude Desktop — automatically. Just ask Claude to write code and it silently routes the request to MiniMax behind the scenes.
+Use **MiniMax M2.7** (one of the best coding AI models) inside Claude Desktop on Mac — automatically. Just ask Claude to write code and it silently routes the request to MiniMax behind the scenes.
 
-- **Coding tasks** → MiniMax M2.7 (via SambaNova Cloud)
-- **Planning / design** → Claude Opus (as usual)
+- **Coding tasks** (write, debug, review, test) → MiniMax M2.7 via SambaNova Cloud
+- **Planning / design / architecture** → Claude Opus/Sonnet
 
 No switching apps. No copying prompts. It just works.
+
+**Cost comparison:**
+
+| Model | Input $/M tokens | Output $/M tokens |
+|---|---|---|
+| MiniMax M2.7 (SambaNova) | $0.30 | $1.20 |
+| Claude Sonnet 4.6 | $3.00 | $15.00 |
+| Claude Opus 4.7 | $5.00 | $25.00 |
+
+MiniMax is ~20x cheaper than Opus for coding tasks.
 
 ---
 
