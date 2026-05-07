@@ -11,7 +11,7 @@ No switching apps. No copying prompts. It just works.
 
 | Model | Input $/M tokens | Output $/M tokens |
 |---|---|---|
-| MiniMax M2.7 (SambaNova) | $0.30 | $1.20 |
+| MiniMax M2.7 (SambaNova) | $0.60 | $2.40 |
 | Claude Sonnet 4.6 | $3.00 | $15.00 |
 | Claude Opus 4.7 | $5.00 | $25.00 |
 
